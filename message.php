@@ -19,7 +19,7 @@
                 }';
             break;
  
-        case "메뉴2":
+        case "GREEN SCREEN":
             echo '
                 {
                     "message":
@@ -34,7 +34,7 @@
                 }';
             break;
  
-        case "메뉴3":
+        case "ETC":
             echo '
                 {
                     "message":
